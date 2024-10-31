@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestStockRadars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="indices">Indices</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="toolbar_indices">Indices</string>
+    <string name="toolbar_portfolio">แผนการลงทุนของคุณ</string>
+    <string name="withdraw">Point ลงทุนแล้ว</string>
+    <string name="pending">Point รอลงทุน</string>
+</resources>
